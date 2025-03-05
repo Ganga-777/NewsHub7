@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "expo-app",
-    "slug": "expo-app",
+    "name": "NewsHub7",
+    "slug": "newshub7",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "newshub7",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
